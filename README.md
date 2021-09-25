@@ -14,7 +14,7 @@ https://shamika69.github.io/password-generator/
   
 ## Installation
 
-Install 'professional portfolio' with github fork function (tab down of green code button)
+Install 'password generator' with github fork function (tab down of green code button)
 
 ```bash
   cd to desktop
